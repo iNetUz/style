@@ -1,0 +1,29 @@
+
+*{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    border: 3px solid red;
+    background-color: black;
+    color: chartreuse;
+    margin: 0;
+    width: 100%;
+}
+div{
+    text-align: center;
+    border: 3px solid black;
+    width: 100%;
+    padding: 20px 10px;
+}
+.External{
+    background-color: darkgreen;
+    color: blanchedalmond;
+}
+.exdiv{
+    background-color: hotpink;
+}
+.main{
+    display: flex;
+    background-color: darkcyan;
+}
